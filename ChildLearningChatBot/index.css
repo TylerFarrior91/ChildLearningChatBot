@@ -1,0 +1,14 @@
+body {
+     front-family: Comic Sans MS, sans-serif;
+     background-color: #f9f5ff;
+     padding: 20px;
+}
+#chat-box {
+    border: 2px soild #ccc;
+    padding: 10px;
+    height: 300px;
+    overflow-y: scroll;
+    background: #fff8el;
+    margin-bottom: 10px;
+    
+}
